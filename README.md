@@ -1,4 +1,4 @@
-# Open Letter to the SpacePi Community
+# An Open Letter to the SpacePi Community
 
 ## Dear SpacePi Community Members,
 
@@ -32,9 +32,9 @@ To promote the construction of SpacePi's ecosystem, community members should act
 
 ## Expressing Sincere Emotions
 
-Dear community members, SpacePi's growth cannot be achieved without your support and trust. Every like, share, and suggestion is the driving force behind the progress of the SpacePi community. We sincerely thank you for your companionship and encouragement along the way. It is because of you that the SpacePi community can overcome one difficulty after another and continue to move forward.
+Dear community members, SpacePi's growth cannot be achieved without your support and trust. Your likes, shares, and suggestions are the driving force behind the progress of the SpacePi community. We sincerely thank you for your companionship and encouragement along the way. It is because of you that the SpacePi community can overcome one difficulty after another and continue to move forward.
 
-SpacePi sincerely invites every community member to join the SpacePi community and work together for SpacePi's future. The future of SpacePi belongs to the community, and everyone can develop and innovate on its foundation.
+SpacePi sincerely invites every community member to join the community and work together for SpacePi's future. The future of SpacePi belongs to the community, and everyone can develop and innovate on its foundation.
 
 Finally, thank you again to every community member who supports and cares about SpacePi. Your trust and support are the greatest motivation for the community to keep moving forward. The SpacePi community promises to continue advancing the SpacePi project with an open, transparent, and responsible attitude, living up to everyone's expectations.
 
