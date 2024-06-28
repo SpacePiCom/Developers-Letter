@@ -1,6 +1,6 @@
 # An Open Letter to the SpacePi Community
 
-## Dear SpacePi Community Members,
+## Dear SpacePi Community Members
 
 With deep gratitude, we extend our sincere greetings to all friends who care about and support SpacePi. Today, the developer team would like to take this opportunity to share the project's journey, challenges, future plans, and expectations for the community.
 
